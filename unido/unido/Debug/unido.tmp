@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\asrol\Documents\Atmel Studio\7.0\LAB2\unido\unido\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\LAB2\unido\unido\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\LAB2\unido\unido\Debug\unido.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>unido.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>unido.map</FILE>
+  <FILE>unido.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\LAB2\unido\unido\main.asm</FILE><LINE>34</LINE></RESET>
+  <segDis><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\LAB2\unido\unido\main.asm</FILE><LINE>19</LINE></segDis>
+  <Main><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\LAB2\unido\unido\main.asm</FILE><LINE>66</LINE></Main>
+  <timer0><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\LAB2\unido\unido\main.asm</FILE><LINE>78</LINE></timer0>
+  <display><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\LAB2\unido\unido\main.asm</FILE><LINE>102</LINE></display>
+  <WAIT_FOR_OVERFLOW><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\LAB2\unido\unido\main.asm</FILE><LINE>80</LINE></WAIT_FOR_OVERFLOW>
+  <UPDATE_PORTC><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\LAB2\unido\unido\main.asm</FILE><LINE>94</LINE></UPDATE_PORTC>
+  <check_pb1><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\LAB2\unido\unido\main.asm</FILE><LINE>123</LINE></check_pb1>
+  <delay_loop1><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\LAB2\unido\unido\main.asm</FILE><LINE>110</LINE></delay_loop1>
+  <show_digit><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\LAB2\unido\unido\main.asm</FILE><LINE>143</LINE></show_digit>
+  <delay_loop2><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\LAB2\unido\unido\main.asm</FILE><LINE>130</LINE></delay_loop2>
+  <DELAY><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\LAB2\unido\unido\main.asm</FILE><LINE>151</LINE></DELAY>
+ </LABELS>
+</ASSEMBLER_INFO>
